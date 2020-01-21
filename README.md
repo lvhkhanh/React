@@ -19,4 +19,6 @@ npm install -g expo-cli
 
 ```
 propName={this.eventHandler} vs propName={eventHandler}
+
+this.methodName = this.methodName.bind(this);
 ```

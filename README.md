@@ -16,3 +16,7 @@
 
 npm install -g expo
 npm install -g expo-cli
+
+```
+propName={this.eventHandler} vs propName={eventHandler}
+```

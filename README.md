@@ -1,5 +1,6 @@
 # React
-
+## Courses
+### https://app.pluralsight.com/library/courses/react-components-designing
 [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
 
 [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)

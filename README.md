@@ -22,6 +22,9 @@ propName={this.eventHandler} vs propName={eventHandler}
 
 this.methodName = this.methodName.bind(this);
 ```
+## Tools
+### Chrome
+#### React Developer Tool
 ## Notes
 ```
 npm instal react react-dom next

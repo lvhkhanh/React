@@ -30,7 +30,7 @@ nextjs
 Higher order component
 Render Prop
 useContext
-useState
+useState => useReducer()
 useEffect
 npm install axios 
 page loading status : loading, success, error

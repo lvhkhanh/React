@@ -22,3 +22,16 @@ propName={this.eventHandler} vs propName={eventHandler}
 
 this.methodName = this.methodName.bind(this);
 ```
+## Notes
+```
+npm instal react react-dom next
+blitz
+nextjs
+Higher order component
+Render Prop
+useContext
+useState
+useEffect
+axios 
+npm install json-server
+```

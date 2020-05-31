@@ -39,5 +39,6 @@ useEffect
 npm install axios 
 page loading status : loading, success, error
 npm install json-server
+useRef cancel request
 ErrorBoundary
 ```

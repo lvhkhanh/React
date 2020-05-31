@@ -28,6 +28,7 @@ npm instal react react-dom next
 blitz
 nextjs
 Higher order component
+npm install recompose
 Render Prop
 useContext
 useState => useReducer()

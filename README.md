@@ -32,6 +32,7 @@ Render Prop
 useContext
 useState
 useEffect
-axios 
+npm install axios 
+page loading status : loading, success, error
 npm install json-server
 ```

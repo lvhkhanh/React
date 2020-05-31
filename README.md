@@ -40,5 +40,6 @@ npm install axios
 page loading status : loading, success, error
 npm install json-server
 useRef cancel request
+set state, call api, back to previous state when error
 ErrorBoundary
 ```

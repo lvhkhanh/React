@@ -1,6 +1,8 @@
 # React
 ## Frameworks
 ### https://ionicframework.com/react
+## Paths
+### https://www.codecademy.com/learn/paths/build-web-apps-with-react
 ## Courses
 ### https://app.pluralsight.com/library/courses/react-components-designing
 [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)

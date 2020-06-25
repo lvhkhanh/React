@@ -5,6 +5,7 @@
 ### https://www.codecademy.com/paths/build-web-apps-with-react/tracks/intro-to-building-web-apps-with-React/modules/overview-of-react/lessons/overview-js-react/exercises/intro
 
 ## Courses
+### https://www.codecademy.com/learn/react-101
 ### https://app.pluralsight.com/library/courses/react-components-designing
 [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
 

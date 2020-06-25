@@ -6,6 +6,7 @@
 
 ## Courses
 ### https://www.codecademy.com/learn/react-101
+### https://www.codecademy.com/learn/react-102
 ### https://app.pluralsight.com/library/courses/react-components-designing
 [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
 

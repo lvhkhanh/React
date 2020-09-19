@@ -30,6 +30,8 @@ propName={this.eventHandler} vs propName={eventHandler}
 
 this.methodName = this.methodName.bind(this);
 ```
+## Ebooks
+### [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/web-development/full-stack-react-projects/9781788835534)
 ## Tools
 ### Chrome
 #### React Developer Tool

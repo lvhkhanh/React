@@ -32,6 +32,7 @@ this.methodName = this.methodName.bind(this);
 ```
 ## Ebooks
 ### [ASP.NET Core 3 and React](https://www.packtpub.com/product/asp-net-core-3-and-react/9781789950229)
+### [React Projects](https://www.packtpub.com/product/react-projects/9781789954937)
 ### [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/web-development/full-stack-react-projects/9781788835534)
 ## Tools
 ### Chrome

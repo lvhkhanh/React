@@ -39,6 +39,8 @@ this.methodName = this.methodName.bind(this);
 ## Tools
 ### Chrome
 #### React Developer Tool
+## Test
+### https://www.syncfusion.com/kb/10369/selenium-test-automation-for-react
 ## Notes
 ```
 npm instal react react-dom next

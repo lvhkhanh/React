@@ -32,6 +32,8 @@ propName={this.eventHandler} vs propName={eventHandler}
 
 this.methodName = this.methodName.bind(this);
 ```
+## Guides
+### https://app.pluralsight.com/guides/get-json-of-mongo-collection-with-and-xhr-request
 ## Ebooks
 ### [ASP.NET Core 3 and React](https://www.packtpub.com/product/asp-net-core-3-and-react/9781789950229)
 ### [React Projects](https://www.packtpub.com/product/react-projects/9781789954937)

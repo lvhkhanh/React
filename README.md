@@ -1,6 +1,23 @@
 # React
+## Prerequisite
+### What is HTML https://www.w3schools.com/whatis/whatis_html.asp 5m
+### What is CSS https://www.w3schools.com/whatis/whatis_css.asp 5m
+### What is DOM https://www.w3schools.com/whatis/whatis_htmldom.asp 5m
+### What is ES6 https://www.w3schools.com/js/js_es6.asp
+### What is Node.js https://www.w3schools.com/nodejs/default.asp
+### What is npm https://www.w3schools.com/whatis/whatis_npm.asp
+### JavaScript https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript 30m-1h
+### Modern JavaScript in React Documentation https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c 5m
 ## Official
+### https://github.com/facebook/react
+### https://reactjs.org/
+### https://reactjs.org/docs/hello-world.html Learn by concept 5m/page
+### https://reactjs.org/tutorial/tutorial.html Learn by doing
+### https://reactjs.org/docs/create-a-new-react-app.html
+### https://reactjs.org/docs/getting-started.html
+### https://reactjs.org/docs/react-api.html
 ### https://reactjs.org/docs/thinking-in-react.html
+### https://reactjs.org/community/support.html Ask for help
 ## Frameworks
 ### https://ionicframework.com/react
 ## Paths
@@ -17,7 +34,7 @@
 
 [React Homepage](https://reactjs.org/)
 
-[React Tutorial](https://www.w3schools.com/REACT/default.asp)
+### [React Tutorial](https://www.w3schools.com/REACT/default.asp) 30m
 
 [facebook/react](https://github.com/facebook/react)
 
@@ -47,6 +64,9 @@ this.methodName = this.methodName.bind(this);
 ## Test
 ### https://www.syncfusion.com/kb/10369/selenium-test-automation-for-react
 ## Notes
+### Routing
+### State Management
+### JSX
 ```
 npm instal react react-dom next
 blitz
@@ -66,3 +86,6 @@ toast
 npm install react-notifications-component
 ErrorBoundary
 ```
+## Links
+### https://www.w3schools.com/whatis/whatis_react.asp 5m
+### https://en.wikipedia.org/wiki/React_(web_framework) 15m

@@ -8,6 +8,15 @@
 ### What is npm https://www.w3schools.com/whatis/whatis_npm.asp
 ### JavaScript https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript 30m-1h
 ### Modern JavaScript in React Documentation https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c 5m
+### https://www.udacity.com/course/intro-to-javascript--ud803 Approx. 2 Weeks
+### https://www.udacity.com/course/shell-workshop--ud206 Approx. 1 Days
+### https://www.udacity.com/course/intro-to-html-and-css--ud001 Approx. 3 Weeks
+### https://www.udacity.com/course/javascript-design-patterns--ud989 Approx. 6 Weeks
+### https://www.udacity.com/course/asynchronous-javascript-requests--ud109 Approx. 3 Weeks
+### https://www.udacity.com/course/es6-javascript-improved--ud356 Approx. 4 Weeks
+### https://www.udacity.com/course/front-end-frameworks--ud894 Approx. 8 Weeks
+### https://www.udacity.com/course/version-control-with-git--ud123 Approx. 4 Weeks
+### https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011 160h 4 Months At 5-10 hrs/week
 ## Official
 ### https://github.com/facebook/react
 ### https://reactjs.org/
@@ -22,6 +31,7 @@
 ### https://ionicframework.com/react
 ## Paths
 ### https://www.codecademy.com/paths/build-web-apps-with-react/tracks/intro-to-building-web-apps-with-React/modules/overview-of-react/lessons/overview-js-react/exercises/intro
+### https://www.udacity.com/course/react-nanodegree--nd019 160h 4 Months at 10 hours / week
 
 ## Courses
 ### [React 101](https://www.codecademy.com/learn/react-101)

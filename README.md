@@ -68,6 +68,7 @@ this.methodName = this.methodName.bind(this);
 ### [Full-Stack React Projects](https://www.packtpub.com/free-ebooks/web-development/full-stack-react-projects/9781788835534)
 ### https://www.syncfusion.com/ebooks/react-succinctly
 ### https://www.syncfusion.com/ebooks/reactjs_succinctly
+### [Hands-On Full Stack Development with Spring Boot 2 and React - Second Edition](https://subscription.packtpub.com/book/web_development/9781838822361) May 2019
 ## Tools
 ### Chrome
 #### React Developer Tool

@@ -34,13 +34,14 @@
 ### https://www.udacity.com/course/react-nanodegree--nd019 160h 4 Months at 10 hours / week
 
 ## Courses
-- [ ] https://www.w3schools.com/react/default.asp
+- [x] https://www.w3schools.com/react/default.asp
 ```sh
 sudo npm i -g create-react-app
 sudo npm i -g npm
 npx create-react-app myfirstreact
 cd myfirstreact
 npm start
+npm i node-sass
 ```
 ### [React 101](https://www.codecademy.com/learn/react-101)
 ### https://www.codecademy.com/learn/react-102

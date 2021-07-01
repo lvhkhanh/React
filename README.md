@@ -38,6 +38,9 @@
 ```sh
 sudo npm i -g create-react-app
 sudo npm i -g npm
+npx create-react-app myfirstreact
+cd myfirstreact
+npm start
 ```
 ### [React 101](https://www.codecademy.com/learn/react-101)
 ### https://www.codecademy.com/learn/react-102

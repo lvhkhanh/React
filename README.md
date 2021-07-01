@@ -34,6 +34,7 @@
 ### https://www.udacity.com/course/react-nanodegree--nd019 160h 4 Months at 10 hours / week
 
 ## Courses
+- [ ] https://www.w3schools.com/react/default.asp
 ### [React 101](https://www.codecademy.com/learn/react-101)
 ### https://www.codecademy.com/learn/react-102
 ### https://app.pluralsight.com/library/courses/react-components-designing

@@ -35,6 +35,10 @@
 
 ## Courses
 - [ ] https://www.w3schools.com/react/default.asp
+```sh
+sudo npm i -g create-react-app
+sudo npm i -g npm
+```
 ### [React 101](https://www.codecademy.com/learn/react-101)
 ### https://www.codecademy.com/learn/react-102
 ### https://app.pluralsight.com/library/courses/react-components-designing

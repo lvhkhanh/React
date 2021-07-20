@@ -43,6 +43,11 @@ cd myfirstreact
 npm start
 npm i node-sass
 ```
+- [ ] Redux
+```
+ functional component: function AComponent(props){return <div>{this.props.name}</div>;}const [name, setName] = useState("initial name");
+ class component: class AComponent extends React.Component setState({name: value});
+```
 ### [React 101](https://www.codecademy.com/learn/react-101)
 ### https://www.codecademy.com/learn/react-102
 ### https://app.pluralsight.com/library/courses/react-components-designing

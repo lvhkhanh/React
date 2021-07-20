@@ -86,7 +86,7 @@ this.methodName = this.methodName.bind(this);
 ## Notes
 ### Routing
 ### State Management
-#### Redux
+- [ ] [Redux](https://app.pluralsight.com/courses/00454b2e-e8d2-43c1-9424-aa542d120404/table-of-contents)
 #### Flux
 ### JSX
 ```

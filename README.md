@@ -86,6 +86,8 @@ this.methodName = this.methodName.bind(this);
 ## Notes
 ### Routing
 ### State Management
+#### Redux
+#### Flux
 ### JSX
 ```
 npm instal react react-dom next

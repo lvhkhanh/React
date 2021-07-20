@@ -46,7 +46,18 @@ npm i node-sass
 - [ ] Redux
 ```
  functional component: function AComponent(props){return <div>{this.props.name}</div>;}const [name, setName] = useState("initial name");
+   useEffect(()=>{
+       // mount, update
+       return () => {
+         // will unmount
+       }
+     },
+     [name]);
  class component: class AComponent extends React.Component setState({name: value});
+ lifecycle:
+   componentDidMount
+   componentDidUpdate
+   componentWillUnmount
 ```
 ### [React 101](https://www.codecademy.com/learn/react-101)
 ### https://www.codecademy.com/learn/react-102

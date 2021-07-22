@@ -43,7 +43,7 @@ cd myfirstreact
 npm start
 npm i node-sass
 ```
-- [ ] Redux
+- [ ] Redux (https://www.sololearn.com/Certificate/1097-123361/jpg/)
 ```
  functional component: function AComponent(props){return <div>{this.props.name}</div>;}const [name, setName] = useState("initial name");
    useEffect(()=>{

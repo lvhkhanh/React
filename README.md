@@ -1,4 +1,10 @@
 # React
+## Certificate
+https://www.codecademy.com/profiles/Khanh.Le
+Create a front-èn app with React
+Learn React
+Learn React.js: Part II
+## Cheatsheets
 ## Prerequisite
 ### What is HTML https://www.w3schools.com/whatis/whatis_html.asp 5m
 ### What is CSS https://www.w3schools.com/whatis/whatis_css.asp 5m

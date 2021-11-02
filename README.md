@@ -1,7 +1,8 @@
 # React
 ## Certificate
 https://www.codecademy.com/profiles/Khanh.Le
-Create a front-èn app with React
+Create a front-end app with React
+Learn React Router
 Learn React
 Learn React.js: Part II
 ## Cheatsheets

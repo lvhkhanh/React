@@ -1,5 +1,6 @@
 # React
-## Certificate
+## Certificates
+- [ ] [Redux Saga with React: Fast-track Redux Saga intro course](https://www.udemy.com/certificate/UC-abf90861-001c-4267-ae86-e04605ff002d/)
 https://www.codecademy.com/profiles/Khanh.Le
 Learn React Testing
 Create a front-end app with React

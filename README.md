@@ -2,6 +2,8 @@
 ## Certificates
 - [x] Get started with React[Get started with ReactAchievements - khanhlvh _ Microsoft Learn.pdf](https://github.com/lvhkhanh/React/files/11018867/Get.started.with.ReactAchievements.-.khanhlvh._.Microsoft.Learn.pdf)
 - [x] Working with data and properties in React components [Working with data and properties in React componentsAchievements - KhanhLVH _ Microsoft Learn.pdf](https://github.com/lvhkhanh/React/files/11028968/Working.with.data.and.properties.in.React.componentsAchievements.-.KhanhLVH._.Microsoft.Learn.pdf)
+- [x] React state and events [React state and eventsAchievements - KhanhLVH _ Microsoft Learn.pdf](https://github.com/lvhkhanh/React/files/11028990/React.state.and.eventsAchievements.-.KhanhLVH._.Microsoft.Learn.pdf)
+
 
 
 - [ ] [Redux Saga with React: Fast-track Redux Saga intro course](https://www.udemy.com/certificate/UC-abf90861-001c-4267-ae86-e04605ff002d/)
